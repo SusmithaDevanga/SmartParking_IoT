@@ -1,0 +1,7 @@
+start powershell "python new_smart_park.py lot1"
+start powershell "python new_smart_park.py lot2"
+start powershell "python new_smart_park.py lot3"
+start powershell "python new_smart_park.py lot4"
+start powershell "python new_smart_park.py lot5"
+start powershell "python new_smart_park.py lot6"
+start powershell "python new_park_input.py 6"
